@@ -1,5 +1,5 @@
 # Portfoio_Code
-These samples come from a Movement Simulation that uses complicated maths and C# to simulate things such as inertia, physics, gravity, velocities. 
+These samples come from a Movement Simulation that uses complicated maths and C# to simulate things such as inertia, physics, gravity and velocities. 
 
 Using these concepts I coded a game in which you are able to move through an obsticle course that uses these simluation physics.
 
